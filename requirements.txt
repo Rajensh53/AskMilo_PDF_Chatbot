@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain_groq
+langchain-community
+pypdf
+streamlit
+python-dotenv
+langchain-huggingface
+huggingface-hub
+
